@@ -4,4 +4,4 @@ Generating a random list of n integers write this list in ascending order, then 
 
 ## Solutions
 ### Python 
-* [Hugo Silva](https://github.com/hugoadriao/challenges-hacktoberfest/blob/master/challenges/1/Python/hugoadriao.py)
+* [Hugo Silva](https://github.com/hugoadriao/hack-to-be-fast/tree/master/hack_1/python/hugoadriao/hack_1.py)
